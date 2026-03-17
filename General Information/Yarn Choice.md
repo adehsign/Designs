@@ -1,3 +1,8 @@
+---
+tags:[general information, comparison]
+status: started
+---
+#hi
 you want sturdy yarn, especially if you plan to knit socks you wear outside of the house. Some types of wool are sturdier, like mohair or BFL.
 The yarn if sturdier if it more tightly spun.
 It also helps to add stronger fibers like silk or nylon\polyester.
