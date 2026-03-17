@@ -1,5 +1,5 @@
 ---
-tags: [tutorial, python, beginner]
+tags: [gen, compare]
 status: started
 ---
 #hi
